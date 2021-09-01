@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Coffee Team
 
 You can use the [editor on GitHub](https://github.com/Coffee-Dev-Team/coffee-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
